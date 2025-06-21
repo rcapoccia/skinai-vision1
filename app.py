@@ -45,5 +45,4 @@ if uploaded_file:
         st.success("✅ Analisi completata!")
         st.markdown(response.choices[0].message.content)
 
----
 
